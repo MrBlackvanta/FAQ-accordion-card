@@ -8,6 +8,7 @@
   border-radius: 2rem;
   position: relative;
   margin-bottom: 2rem;
+  box-shadow: 0px 2rem 2rem 0px rgba(0, 0, 0, 0.4);
 
   &::after {
     content: url(../images/illustration-box-desktop.svg);
